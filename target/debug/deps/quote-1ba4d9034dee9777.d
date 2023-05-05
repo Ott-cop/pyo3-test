@@ -1,0 +1,13 @@
+/home/ddo/programação/pyo3teste/target/debug/deps/quote-1ba4d9034dee9777.rmeta: /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/home/ddo/programação/pyo3teste/target/debug/deps/libquote-1ba4d9034dee9777.rlib: /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/home/ddo/programação/pyo3teste/target/debug/deps/quote-1ba4d9034dee9777.d: /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs:

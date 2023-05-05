@@ -1,0 +1,15 @@
+/home/ddo/programação/pyo3teste/target/debug/deps/target_lexicon-9c6e7d68dab5112b.rmeta: /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/lib.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/data_model.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/host.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/parse_error.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/targets.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/triple.rs /home/ddo/programação/pyo3teste/target/debug/build/target-lexicon-049a43491094dc67/out/host.rs
+
+/home/ddo/programação/pyo3teste/target/debug/deps/libtarget_lexicon-9c6e7d68dab5112b.rlib: /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/lib.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/data_model.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/host.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/parse_error.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/targets.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/triple.rs /home/ddo/programação/pyo3teste/target/debug/build/target-lexicon-049a43491094dc67/out/host.rs
+
+/home/ddo/programação/pyo3teste/target/debug/deps/target_lexicon-9c6e7d68dab5112b.d: /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/lib.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/data_model.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/host.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/parse_error.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/targets.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/triple.rs /home/ddo/programação/pyo3teste/target/debug/build/target-lexicon-049a43491094dc67/out/host.rs
+
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/lib.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/data_model.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/host.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/parse_error.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/targets.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.12.7/src/triple.rs:
+/home/ddo/programação/pyo3teste/target/debug/build/target-lexicon-049a43491094dc67/out/host.rs:
+
+# env-dep:OUT_DIR=/home/ddo/programação/pyo3teste/target/debug/build/target-lexicon-049a43491094dc67/out

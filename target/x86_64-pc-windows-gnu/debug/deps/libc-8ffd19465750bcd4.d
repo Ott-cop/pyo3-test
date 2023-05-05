@@ -1,0 +1,12 @@
+/home/ddo/programação/pyo3teste/target/x86_64-pc-windows-gnu/debug/deps/libc-8ffd19465750bcd4.rmeta: /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/lib.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/macros.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/fixed_width_ints.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/windows/mod.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/windows/gnu/mod.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/windows/gnu/align.rs
+
+/home/ddo/programação/pyo3teste/target/x86_64-pc-windows-gnu/debug/deps/liblibc-8ffd19465750bcd4.rlib: /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/lib.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/macros.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/fixed_width_ints.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/windows/mod.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/windows/gnu/mod.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/windows/gnu/align.rs
+
+/home/ddo/programação/pyo3teste/target/x86_64-pc-windows-gnu/debug/deps/libc-8ffd19465750bcd4.d: /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/lib.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/macros.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/fixed_width_ints.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/windows/mod.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/windows/gnu/mod.rs /home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/windows/gnu/align.rs
+
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/lib.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/macros.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/fixed_width_ints.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/windows/mod.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/windows/gnu/mod.rs:
+/home/ddo/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.142/src/windows/gnu/align.rs:
